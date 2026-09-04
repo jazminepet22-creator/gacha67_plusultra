@@ -1,0 +1,6 @@
+{
+  "name": "Gacha Studio - 2D Avatar Creator",
+  "description": "Motor interactivo 2D y creador de avatares estilo Gacha Life con capas de Canvas, modo estudio y sistema Gacha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
